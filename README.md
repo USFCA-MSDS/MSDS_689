@@ -42,8 +42,8 @@ Lectures are Friday
 | Artifact | Grade Weight | Due date |
 |--------|--------|--------|
 |HW1| 8% | Sat, Feb 3 11:59pm |
-|Clustering Algorithms| 17% | Sat, Feb 24 11:59pm |
-|Graph-based clustering algorithms| 18% | Sat Mar 2 11:59pm |
+|HW2| 17% | Sat, Feb 24 11:59pm |
+|HW3| 18% | Sat Mar 2 11:59pm |
 |Exam 1| 25%| Fri Feb 16 |
 |Exam 2| 25%| Fri Mar 8 |
 |Attendance and participation | 7%| attend _all_ lectures and actively participate in class  |
