@@ -49,17 +49,10 @@ Lectures are Friday
 |Attendance and participation | 7%| attend _all_ lectures and actively participate in class  |
 
 
-Note: In order to pass this course, students are expected to receive at least 50% of each category. E.g., receiving less than 29/60 on your quiz might not be a satisfying grade.
+Note: In order to pass this course, students are expected to receive at least 50% of each category. E.g., receiving less than 29/60 on your HW might not be a satisfying grade.
 
-The oohtable project will be graded with the specific input or tests given in the project description, so you understand precisely what is expected of your program. (There are a few hidden tests though.) Consequently, projects will be graded in binary fashion: The tests either work or they do not. The only exception is when your program does not run on the grader's or my machine because of some cross-platform issue. This is typically because a student has hardcoded some file name or directory into their program. In that case, we will take off *a minimum* of 10% instead of giving you a 0, depending on the severity of the mistake. Please go to github and verify that the website has the proper files for your solution. That is what I will download for testing.
-
-Each project has a hard deadline and only those projects working correctly before the deadline get credit.  My grading script pulls from github at the deadline.  *All projects are due at the start of class on the day indicated, unless otherwise specified.*
-
-**Grading standards**. I consider an **A** grade to be above and beyond what most students have achieved. A **B** grade is an average grade for a student or what you could call "competence" in a business setting. A **C** grade means that you either did not or could not put forth the effort to achieve competence. Below **C** implies you did very little work or had great difficulty with the class compared to other students.
 
 # Review and Resources
-
-* Review [OO notebook](https://github.com/USFCA-MSDS/msds689/blob/master/notes/OO.ipynb) and [Operator overloading notebook](notes/operator-overloading.ipynb)
 
 Here is a great free book on [algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/).
 
