@@ -46,7 +46,7 @@ Lectures are Friday
 |Graph-based clustering algorithms| 18% | Sat Mar 2 11:59pm |
 |Exam 1| 25%| Fri Feb 16 |
 |Exam 2| 25%| Fri Mar 8 |
-|Attendance and particpation| 7%| attend all lectures and actively particpate in class  |
+|Attendance and participation | 7%| attend _all_ lectures and actively participate in class  |
 
 
 Note: In order to pass this course, students are expected to receive at least 50% of each category. E.g., receiving less than 29/60 on your quiz might not be a satisfying grade.
