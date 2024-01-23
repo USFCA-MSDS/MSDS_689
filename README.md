@@ -62,6 +62,10 @@ A great book that is not free is here [Introduction to Algorithms](https://www.a
 
 __________________
 
+# Lectures
+
+We will give a total of 6 lectures, the outline of topics covered in these lectures are going to be : 
+
 Lecture 1 : An introduction to algorithm complexity. Application : k-means algorithm.
 
 Lecture 2 : core data structures : Arrays, linked list, hashtables, stack and queue. 
