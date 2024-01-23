@@ -57,3 +57,22 @@ Note: In order to pass this course, students are expected to receive at least 50
 Here is a great free book on [algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/).
 
 A great book that is not free is here [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=sr_1_1?keywords=introduction+to+algorithms&qid=1674784191&sprefix=introduction+t%2Caps%2C174&sr=8-1)
+
+
+
+__________________
+
+Lecture 1 : An introduction to algorithm complexity. Application : k-means algorithm.
+
+Lecture 2 : core data structures : Arrays, linked list, hashtables, stack and queue. 
+
+Lecture 3 : Recursion, trees
+
+Lecture 4 : graphs and their search  
+
+Lecture 5 :  Dijkstra algorithm, minimal spanning tree algorithm. Disjoint union data structure
+
+Lecture 6 : Sorting algorithms
+
+
+
