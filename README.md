@@ -25,24 +25,13 @@ By the end of this course, students will be able to:
 
 **INSTRUCTOR.** [Mustafa Hajij](https://www.usfca.edu/faculty/mustafa-hajij).
 
-**SPATIAL COORDINATES:**<br>
-
-Class is held at 101 Howard 527
-
 <!--
 * My office is room 607 @ 101 Howard
 -->
 
 
-
 Lectures are Friday 
 
-
-<!--
-* Section 01: Fri 10-11:55AM
-* Section 02: Fri 2:20-4:15PM 
-* Exams: Thur Feb 13 3:15-4:15PM, Fri Mar 6 in class 10-11:30am for both classes at once
--->
 
 **INSTRUCTION FORMAT**. Class runs for 1:50 hours 1 day/week. Instructor-student interaction during lecture is encouraged and we'll mix in mini-exercises / labs during class. All programming will be done in the Python 3 programming language, unless otherwise specified.
 
@@ -52,12 +41,12 @@ Lectures are Friday
 
 | Artifact | Grade Weight | Due date |
 |--------|--------|--------|
-|[HW1]| 8% | Fri, Feb 3 11:59pm |
-|[Clustering Algorithms](projects/kmeans/kmeans.md)| 17% | Sat, Feb 25 11:59pm |
-|[Graph-based clustering algorithms]| 20% | Mar 11, 2023 11:59pm |
-|Exam 1| 25%| Fri Feb 16 --- |
-|Exam 2| 25%| Fri Mar 8 --- |
-|Attendance and particpation| 5%|  |
+|HW1| 8% | Sat, Feb 3 11:59pm |
+|Clustering Algorithms| 17% | Sat, Feb 24 11:59pm |
+|Graph-based clustering algorithms| 18% | Sat Mar 2 11:59pm |
+|Exam 1| 25%| Fri Feb 16 |
+|Exam 2| 25%| Fri Mar 8 |
+|Attendance and particpation| 7%| attend all lectures and actively particpate in class  |
 
 
 Note: In order to pass this course, students are expected to receive at least 50% of each category. E.g., receiving less than 29/60 on your quiz might not be a satisfying grade.
