@@ -15,8 +15,9 @@ By the end of this course, students will be able to:
 
 1. Describe object-oriented programming and use objects to construct linked lists, trees, and graph data structures
 2. Understand the fundamental data structures such as hashtables, disjoint union, stack and queue.
-3. Apply classical algorithms and data structure to problems in data science.
-4. Analyze and compare algorithmic complexity using “big-O” notation
+3. Analyze and compare algorithmic complexity using “big-O” notation
+4. Apply classical algorithms and data structure to problems in data science.
+   
 
 
 
