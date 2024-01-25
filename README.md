@@ -67,8 +67,8 @@ __________________
 We will give a total of 6 lectures, the outline of topics covered in these lectures are going to be : 
 
 Lecture 1 : An introduction to algorithm complexity. Application : k-means algorithm. 
-   [complexity_lecture] [k_means_lecture](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/K_means_lecture.pdf)
-   [complexity_notebook] [k_means_notebook](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/k_means.ipynb)
+   [ complexity_lecture ] [ k_means_lecture ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/K_means_lecture.pdf)
+   [ complexity_notebook ] [ k_means_notebook ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/k_means.ipynb)
 
 Lecture 2 : core data structures : Arrays, linked list, hashtables, stack and queue. 
 
