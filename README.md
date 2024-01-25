@@ -66,7 +66,7 @@ __________________
 
 We will give a total of 6 lectures, the outline of topics covered in these lectures are going to be : 
 
-Lecture 1 : An introduction to algorithm complexity. Application : k-means algorithm.
+Lecture 1 : An introduction to algorithm complexity. Application : k-means algorithm. [complexity_lecture] [k_means_lecture] [k_means_notebook] [complexity_notebook] 
 
 Lecture 2 : core data structures : Arrays, linked list, hashtables, stack and queue. 
 
