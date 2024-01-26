@@ -16,7 +16,8 @@
 for the above task you can start with the signature :
 
 
-'''import numpy as np
+```python
+import numpy as np
 
 class KMeans:
     def __init__(self, n_clusters=3, max_iterations=100, random_state=None):
@@ -62,8 +63,8 @@ class KMeans:
         Returns:
         - centroids: Numpy array representing the centroids of clusters.
         """
-        return self.centroids'''
-
+        return self.centroids
+```
 
 ## Task 2: Complexity Exploration
 1. Analyze the time complexity of your K-Means implementation. Consider the impact of the number of points (`m`), clusters (`K`), iterations (`I`), and attributes (`n`). These variables are explained in the [lecture](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/K_means_lecture.pdf).
