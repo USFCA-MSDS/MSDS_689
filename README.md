@@ -71,6 +71,7 @@ Lecture 1 : An introduction to algorithm complexity. Application : k-means algor
    * [ k_means_lecture ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/K_means_lecture.pdf)[PDF]
    * [ count_common_elements ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/count_common_elements.ipynb)[notebook]
    * [ k_means_notebook ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/k_means.ipynb)[notebook]
+   *  Want to get deeper understanding of complexity of algorithms ? Check [this](https://www.youtube.com/watch?v=vNOop-Qxzcg&list=PLQfaHkBRINsx9IPH8GI2RaRWMN68jyUV_)
 
 Lecture 2 : core data structures : Arrays, linked list, hashtables, stack and queue. 
 
