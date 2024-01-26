@@ -83,10 +83,10 @@ class KMeans:
 2. Experiment with different distance metrics for assigning data points to clusters (e.g., Euclidean distance, Manhattan distance).
 
 ## Deliverables
-1. A well-documented Python notebook (.ipynb) with clear explanations and code comments.
-2. Visualization of K-Means clustering results and complexity analysis plots.
-3. Display of the original and compressed images with a discussion of the compression results.
-4. A separate testing script or section within the notebook demonstrating test coverage and reliability. For unit testing, see this [video](https://www.youtube.com/watch?v=1Lfv5tUGsn8&pp=ygUTdW5pdCB0ZXN0aW5nIHB5dGhvbg%3D%3D)
+1. Submit everything in a single well-documented Python notebook (.ipynb) with clear explanations and code comments.
+2. In the same .ipynb file, visualization of K-Means clustering results and complexity analysis plots.
+3. In the same .ipynb file, display of the original and compressed images with a discussion of the compression results.
+4. In the same .ipynb file, a separate testing script or section within the notebook demonstrating test coverage and reliability. For unit testing, see this [video](https://www.youtube.com/watch?v=1Lfv5tUGsn8&pp=ygUTdW5pdCB0ZXN0aW5nIHB5dGhvbg%3D%3D)
 
 ## Submission Guidelines
 1. Submit the Python notebook via the designated platform.
