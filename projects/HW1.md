@@ -4,6 +4,7 @@
 - Implement K-Means clustering using object-oriented programming in Python.
 - Explore the algorithm's complexity in terms of time and space with respect to its variables.
 - Apply K-Means for image compression by mapping pixel space into $R^3$ and reducing the number of colors.
+- Practice good coding practice : pep8, unit testing, docstrings, etc.
 
 ## Task 1: Implementing K-Means Algorithm 
 1. Write a Python class named `KMeans` that encapsulates the K-Means clustering algorithm.
@@ -90,7 +91,7 @@ class KMeans:
 ## Submission Guidelines
 1. Submit the Python notebook via the designated platform.
 2. Ensure the notebook includes all necessary explanations, code, visualizations, and testing sections.
-3. The code should pass linting tools for PEP 8 compliance, and testing results should be included.
+3. The code should pass linting tools for [PEP8](https://realpython.com/python-pep8/) compliance, and testing results should be included.
 
 ## Grading Criteria
 - Implementation of K-Means class: 30 points
