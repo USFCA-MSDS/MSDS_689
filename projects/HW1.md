@@ -86,12 +86,12 @@ class KMeans:
 1. A well-documented Python notebook (.ipynb) with clear explanations and code comments.
 2. Visualization of K-Means clustering results and complexity analysis plots.
 3. Display of the original and compressed images with a discussion of the compression results.
-4. A separate testing script or section within the notebook demonstrating test coverage and reliability.
+4. A separate testing script or section within the notebook demonstrating test coverage and reliability. For unit testing, see this [video](https://www.youtube.com/watch?v=1Lfv5tUGsn8&pp=ygUTdW5pdCB0ZXN0aW5nIHB5dGhvbg%3D%3D)
 
 ## Submission Guidelines
 1. Submit the Python notebook via the designated platform.
 2. Ensure the notebook includes all necessary explanations, code, visualizations, and testing sections.
-3. The code should pass linting tools for [PEP8](https://realpython.com/python-pep8/) compliance, and testing results should be included.
+3. The code should be written with a [PEP8](https://realpython.com/python-pep8/) compliance, and testing results should be included.
 
 ## Grading Criteria
 - Implementation of K-Means class: 30 points
