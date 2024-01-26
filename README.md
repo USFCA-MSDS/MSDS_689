@@ -46,7 +46,7 @@ Lectures are Friday
 |Attendance and participation | 7%| attend _all_ lectures and actively participate in class  |
 
 
-Note: In order to pass this course, students are expected to receive at least 50% of each category. E.g., receiving less than 29/60 on your HW might not be a satisfying grade.
+Note: In order to pass this course, students are expected to receive at least 50% of each category.
 
 
 # Review and Resources
