@@ -13,8 +13,60 @@
 5. Implement a thorough set of tests for your K-Means implementation using a testing library like `unittest` or `pytest`.
 6. Consider edge cases and unexpected inputs in your testing strategy.
 
+for the above task you can start with the signature :
+
+import numpy as np
+'''
+class KMeans:
+    def __init__(self, n_clusters=3, max_iterations=100, random_state=None):
+        """
+        Initialize KMeans clustering algorithm.
+
+        Parameters:
+        - n_clusters: Number of clusters (default is 3).
+        - max_iterations: Maximum number of iterations (default is 100).
+        - random_state: Seed for random number generation (default is None).
+        """
+        self.n_clusters = n_clusters
+        self.max_iterations = max_iterations
+        self.random_state = random_state
+        self.centroids = None
+        self.labels = None
+
+    def fit(self, data):
+        """
+        Fit the KMeans algorithm to the input data.
+
+        Parameters:
+        - data: Numpy array of shape (m, n) representing m data points in an n-dimensional space.
+        """
+        # Implementation of KMeans algorithm
+
+    def predict(self, data):
+        """
+        Assign data points to the nearest cluster based on current centroids.
+
+        Parameters:
+        - data: Numpy array of shape (m, n) representing m data points in an n-dimensional space.
+
+        Returns:
+        - labels: Array of cluster labels assigned to each data point.
+        """
+        # Implementation of data point assignment
+
+    def get_centroids(self):
+        """
+        Get the current centroids after fitting the algorithm.
+
+        Returns:
+        - centroids: Numpy array representing the centroids of clusters.
+        """
+        return self.centroids
+'''
+
+
 ## Task 2: Complexity Exploration
-1. Analyze the time complexity of your K-Means implementation. Consider the impact of the number of points (`m`), clusters (`K`), iterations (`I`), and attributes (`n`). These variables are explained in the lecture.
+1. Analyze the time complexity of your K-Means implementation. Consider the impact of the number of points (`m`), clusters (`K`), iterations (`I`), and attributes (`n`). These variables are explained in the [lecture](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/K_means_lecture.pdf).
 2. Implement experiments to measure the running time for varying values of these parameters.
 3. Create plots to visualize the growth in running time as each variable changes. Discuss the observed trends.
 
