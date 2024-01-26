@@ -96,6 +96,6 @@ class KMeans:
 ## Grading Criteria
 - Implementation of K-Means class: 30 points
 - Complexity exploration and analysis: 30 points
-- Image compression using K-Means: 30 points
+- Image compression using K-Means: 10 points
 - Code quality, adherence to PEP 8, meaningful docstrings, and testing: 10 points
 
