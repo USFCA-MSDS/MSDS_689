@@ -15,8 +15,9 @@
 
 for the above task you can start with the signature :
 
-import numpy as np
-'''
+
+'''import numpy as np
+
 class KMeans:
     def __init__(self, n_clusters=3, max_iterations=100, random_state=None):
         """
@@ -61,8 +62,7 @@ class KMeans:
         Returns:
         - centroids: Numpy array representing the centroids of clusters.
         """
-        return self.centroids
-'''
+        return self.centroids'''
 
 
 ## Task 2: Complexity Exploration
