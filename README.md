@@ -80,9 +80,9 @@ Lecture 2 : core data structures : Arrays, linked list, hashtables, stack and qu
 
 Lecture 3 : Recursion, trees, introduction to graphs.
 
-Lecture 4 : More on graphs and their search  
+Lecture 4 : More on graphs
 
-Lecture 5 :  Dijkstra algorithm, minimal spanning tree algorithm. Disjoint union data structure
+Lecture 5 :  Dijkstra algorithm, where do we see graphs in data science?
 
 Lecture 6 : Sorting algorithms
 
