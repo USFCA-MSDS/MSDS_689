@@ -83,7 +83,7 @@ Lecture 3 : Recursion, trees, introduction to graphs.
 
 Lecture 4 : Minimal Spanning tree, union find and applications to clustering algorithms
    * [ minimal spanning tree](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/Minimal%20Spanning%20Tree%20and%20applications%20in%20clustering.pdf))[PDF]
-   * [Hierarchical Clustering and MST](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/trees.pdf)[PDF]
+   * [Hierarchical Clustering and MST]([https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/trees.pdf](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/graph%20algo%20in%20ML.pdf)[PDF]
 
 
 Lecture 5 :  Dijkstra algorithm, More on graphs in data science.
