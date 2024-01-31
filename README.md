@@ -82,7 +82,7 @@ Lecture 3 : Recursion, trees, introduction to graphs.
    * [Trees](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/trees.pdf)[PDF]
 
 Lecture 4 : Minimal Spanning tree, union find and applications to clustering algorithms
-   * [ minimal spanning tree](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/Minimal%20Spanning%20Tree%20and%20applications%20in%20clustering.pdf))[PDF]
+   * [ union find, minimal spanning tree and Kruskal algorithm](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/Minimal%20Spanning%20Tree%20and%20applications%20in%20clustering.pdf))[PDF]
    * [Hierarchical Clustering and MST](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/graph%20algo%20in%20ML.pdf)[PDF]
 
 
