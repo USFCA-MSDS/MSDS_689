@@ -75,7 +75,8 @@ Lecture 1 : An introduction to algorithm complexity. Application : k-means algor
 
 Lecture 2 : core data structures : Arrays, linked list, hashtables, stack and queue. 
    * [ Essential data structures ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/essential-data-structures_.pdf)[PDF]
-   * [Hashtable problems](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/Hashtable_Questions.ipynb)
+   * [Hashtables](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/hashtable.ipynb)[notebook]
+   * [Hashtable problems](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/Hashtable_Questions.ipynb)[notebook]
 
 Lecture 3 : Recursion, trees
 
