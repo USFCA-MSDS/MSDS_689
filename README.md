@@ -79,9 +79,8 @@ Lecture 2 : core data structures : Arrays, linked list, hashtables, stack and qu
    * [Hashtable problems](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/Hashtable_Questions.ipynb)[notebook]
 
 Lecture 3 : Recursion, trees, introduction to graphs.
-* [Trees]()[PDF]
+* [Trees](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/trees.pdf)[PDF]
 
-   
 
 Lecture 4 : Minimal Spanning tree, union find and applications to clustering algorithms
    * [ minimal spanning tree](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/Minimal%20Spanning%20Tree%20and%20applications%20in%20clustering.pdf))[PDF]
