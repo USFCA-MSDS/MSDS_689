@@ -78,9 +78,9 @@ Lecture 2 : core data structures : Arrays, linked list, hashtables, stack and qu
    * [Hashtables](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/hashtable.ipynb)[notebook]
    * [Hashtable problems](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/Hashtable_Questions.ipynb)[notebook]
 
-Lecture 3 : Recursion, trees
+Lecture 3 : Recursion, trees, introduction to graphs.
 
-Lecture 4 : graphs and their search  
+Lecture 4 : More on graphs and their search  
 
 Lecture 5 :  Dijkstra algorithm, minimal spanning tree algorithm. Disjoint union data structure
 
