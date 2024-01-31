@@ -81,9 +81,10 @@ Lecture 2 : core data structures : Arrays, linked list, hashtables, stack and qu
 Lecture 3 : Recursion, trees, introduction to graphs.
 
 Lecture 4 : Minimal Spanning tree, union find and applications to clustering algorithms
-     * [ minimal spanning tree](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/essential-data-structures_.pdf)[PDF]
+   * [ minimal spanning tree](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/essential-data-structures_.pdf)[PDF]
 
 Lecture 5 :  Dijkstra algorithm, where do we see graphs in data science?
+   * [Shortest distance on graph][https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/Dijekstra_algorithm.pdf][PDF] 
 
 Lecture 6 : Sorting algorithms
 
