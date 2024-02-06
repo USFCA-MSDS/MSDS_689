@@ -1,7 +1,7 @@
 # Hierarchical Clustering with Euclidean Minimal Spanning Tree
 
 ## Introduction
-Hierarchical Clustering (HC) is a powerful technique used in data science for grouping similar data points together. One common approach to HC involves using the Euclidean Minimal Spanning Tree algorithm to construct a hierarchical structure based on the distances between data points. In this repository, we provide helper code for implementing HC using the Euclidean Minimal Spanning Tree algorithm.
+Hierarchical Clustering (HC) is a powerful technique used in data science for grouping similar data points together. One common approach to HC involves using the Euclidean Minimal Spanning Tree algorithm to construct a hierarchical structure based on the distances between data points. In this repository, we provide helper [code](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/hierarchical_clustering_using_MST.ipynb) for implementing HC using the Euclidean Minimal Spanning Tree algorithm.
 
 ### Euclidean Minimal Spanning Tree
 The Euclidean Minimal Spanning Tree is a tree-like structure that connects all the data points in a dataset while minimizing the total edge weight. It is computed using the Union Find data structure and the Kruskal's algorithm for finding minimal spanning trees. The Union Find data structure efficiently maintains disjoint sets of objects and is particularly useful in the context of HC for merging clusters of data points.
