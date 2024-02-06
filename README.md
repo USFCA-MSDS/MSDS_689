@@ -39,7 +39,7 @@ Lectures are Friday
 | Artifact | Grade Weight | Due date |
 |--------|--------|--------|
 |[HW1](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW1.md)| 8% | Sat, Feb 3 11:59pm |
-|HW2| 17% | Sat, Feb 24 11:59pm |
+|[HW2](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW2.md)| 17% | Sat, Feb 24 11:59pm |
 |HW3| 18% | Sat Mar 2 11:59pm |
 |Exam 1| 25%| Th Feb 15 |
 |Exam 2| 25%| Fri Mar 8 |
