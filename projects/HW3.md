@@ -1,6 +1,6 @@
 Enhanced Graph k-Means Implementation and Optimization
 # Description:
-In this task, you will extend the provided Graph K-Means algorithm by exploring variations such as different centrality measures, initialization algorithms, and optimization strategies. Additionally, you will conduct experimental studies to analyze the algorithm's running time and efficiency. Your goal is to optimize the base model and compare its performance against your custom implementation.
+In this task, you will extend the provided [Graph K-Means](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb) algorithm by exploring variations such as different centrality measures, initialization algorithms, and optimization strategies. Additionally, you will conduct experimental studies to analyze the algorithm's running time and efficiency. Your goal is to optimize the base model and compare its performance against your custom implementation.
 
 
 
