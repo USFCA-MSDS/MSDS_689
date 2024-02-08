@@ -20,7 +20,7 @@ Experimental Analysis:
 (4) Code Optimization: Optimize the provided base model for improved efficiency and computational speed. Consider algorithmic optimizations, data structure improvements, and parallelization techniques to enhance performance.
 
 
-(5) Custom Implementation: Develop your custom Graph K-Means algorithm, incorporating insights gained from variations exploration and code optimization. Ensure adherence to PEP 8 standards and maintain comprehensive unit tests for code validation.
+(5) Custom Implementation: Using the base model develop your optimaized/custom Graph K-Means algorithm, incorporating insights gained from variations exploration and code optimization. Ensure adherence to PEP 8 standards and maintain comprehensive unit tests for code validation.
 
 
 (6) Performance Comparison: Compare the running time and efficiency of your custom implementation against the optimized base model. Conduct rigorous experimentation across various datasets to validate performance improvements.
@@ -58,7 +58,7 @@ Ensures adherence to PEP 8 standards and maintains comprehensive unit tests for 
 
 * Performance Comparison (10 points):
 
-Compares the running time and efficiency of the custom implementation against the optimized base model.
+Compares the running time and efficiency of the custom implementation against the base model provided for you.
 Conducts rigorous experimentation across various datasets to validate performance improvements.
 
 
