@@ -40,7 +40,7 @@ Lectures are Friday
 |--------|--------|--------|
 |[HW1](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW1.md)| 8% | Sat, Feb 3 11:59pm |
 |[HW2](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW2.md)| 17% | Sat, Feb 24 11:59pm |
-|[HW3]()| 18% | Sat Mar 2 11:59pm |
+|[HW3](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW3.md)| 18% | Sat Mar 2 11:59pm |
 |Exam 1| 25%| Th Feb 15 |
 |Exam 2| 25%| Fri Mar 8 |
 |Attendance and participation | 7%| attend _all_ lectures and actively participate in class  |
@@ -93,6 +93,7 @@ Lecture 4 : Minimal Spanning tree, union find and applications to clustering alg
 Lecture 5 :  Dijkstra algorithm, More on graphs in data science.
    * [Shortest distance on graph](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/Dijekstra_algorithm.pdf)[PDF]
    * [PageRank]()[PDF]
+   * Application : [graph k-means](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb)
 
 Lecture 6 : Sorting algorithms
 
