@@ -7,14 +7,14 @@ In this task, you will extend the provided [Graph K-Means](https://github.com/US
 
 ## Task Overview:
 
-* (1) Experiment with alternative centrality measures available in NetworkX, such as betweenness centrality or eigenvector centrality. Evaluate their effectiveness in determining cluster centers.
+* (1) Experiment with alternative [centrality measures available in NetworkX](https://networkx.org/documentation/stable/reference/algorithms/centrality.html), such as betweenness centrality or eigenvector centrality. Evaluate their effectiveness in determining cluster centers.
 
 
-* (2) Initialization Algorithms: Explore different initialization strategies for selecting initial cluster centers. Compare their impact on convergence and clustering quality.
-Experimental Analysis:
+* (2) Initialization Algorithms: Explore different initialization strategies for selecting initial cluster centers. Compare their impact on convergence and clustering quality. The base model only explores random initialization of the nodes.
 
 
-* (3) Conduct experimental studies to analyze the running time and efficiency of the [base Graph K-Means algorithm](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb). Vary the size and density of input graphs to assess scalability and performance under different conditions.
+
+* (3) Experimental Analysis: Conduct experimental studies to analyze the running time and efficiency of the [base Graph K-Means algorithm](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb). Vary the size and density of input graphs to assess scalability and performance under different conditions.
 
 
 * (4) Code Optimization: Optimize the provided [base model](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb) for improved efficiency and computational speed. Consider algorithmic optimizations, data structure improvements, and parallelization techniques to enhance performance.
