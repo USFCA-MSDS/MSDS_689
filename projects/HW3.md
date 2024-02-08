@@ -14,7 +14,7 @@ In this task, you will extend the provided [Graph K-Means](https://github.com/US
 Experimental Analysis:
 
 
-* (3) Conduct experimental studies to analyze the running time and efficiency of the [base Graph K-Means algorithm] (https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb). Vary the size and density of input graphs to assess scalability and performance under different conditions.
+* (3) Conduct experimental studies to analyze the running time and efficiency of the [base Graph K-Means algorithm](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb). Vary the size and density of input graphs to assess scalability and performance under different conditions.
 
 
 * (4) Code Optimization: Optimize the provided [base model](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb) for improved efficiency and computational speed. Consider algorithmic optimizations, data structure improvements, and parallelization techniques to enhance performance.
