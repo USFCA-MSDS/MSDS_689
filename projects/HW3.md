@@ -2,6 +2,8 @@
 ## Description:
 In this task, you will extend the provided [Graph K-Means](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb) algorithm by exploring variations such as different centrality measures, initialization algorithms, and optimization strategies. Additionally, you will conduct experimental studies to analyze the algorithm's running time and efficiency. Your goal is to optimize the [base model](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb)  and compare its performance against your custom implementation.
 
+This homework is based on the paper : https://arxiv.org/pdf/2005.04774.pdf
+
 
 
 
