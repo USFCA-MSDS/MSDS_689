@@ -7,7 +7,7 @@ In this task, you will extend the provided [Graph K-Means](https://github.com/US
 
 ## Task Overview:
 
-* (1) Experiment with alternative [centrality measures available in NetworkX](https://networkx.org/documentation/stable/reference/algorithms/centrality.html), such as betweenness centrality or eigenvector centrality. Evaluate their effectiveness in determining cluster centers.
+* (1) Experiment with alternative [centrality measures available in NetworkX](https://networkx.org/documentation/stable/reference/algorithms/centrality.html), such as betweenness centrality or eigenvector centrality. Evaluate their effectiveness in determining cluster centers. Do you think there are alternatives for the shortest distance on ghraphs ? If so explore other options.
 
 
 * (2) Initialization Algorithms: Explore different initialization strategies for selecting initial cluster centers. Compare their impact on convergence and clustering quality. The base model only explores random initialization of the nodes.
