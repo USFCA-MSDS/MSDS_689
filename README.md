@@ -83,6 +83,7 @@ Lecture 3 : Recursion, trees, introduction to graphs.
    * [Trees](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/trees.pdf)[PDF]
    * Analysis of recurive algorithms. [Video](https://www.youtube.com/watch?v=npPsc8vTT7Y&list=PLQfaHkBRINszD1kQmn1YM2RPjenZbmVDM).
    * Binary search tree. [Video](https://www.youtube.com/watch?v=6hSXYFHj8GQ&list=PLQfaHkBRINswfXipCssy1XcJzMd3f_fVs)
+   * Introduction to NetworkX [notebook](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/networkx--.ipynb)
 
 Lecture 4 : Minimal Spanning tree, union find and applications to clustering algorithms
    * [ union find, minimal spanning tree and Kruskal algorithm](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/Minimal%20Spanning%20Tree%20and%20applications%20in%20clustering.pdf))[PDF]
