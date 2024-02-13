@@ -98,5 +98,7 @@ Lecture 5 :  Dijkstra algorithm, More on graphs in data science.
 
 Lecture 6 : Sorting algorithms
 
+# Exams reviews
 
+Exam1 review questions [notebook](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/questions_exam1.ipynb)
 
