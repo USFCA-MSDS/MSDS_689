@@ -94,7 +94,7 @@ Lecture 4 : Minimal Spanning tree, union find and applications to clustering alg
 Lecture 5 :  Dijkstra algorithm, More on graphs in data science.
    * [Shortest distance on graph](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/Dijekstra_algorithm.pdf)[PDF]
    * [PageRank](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/page_rank.ipynb)[Notebook]
-   * Application : [graph k-means notebook](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb) [graph k-means slides](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/pagerank_and_kmean_clustering_.pdf)
+   * Application : [graph k-means notebook](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb), [graph k-means slides](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/pagerank_and_kmean_clustering_.pdf)
 
 Lecture 6 : Sorting algorithms
 
