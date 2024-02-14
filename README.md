@@ -69,15 +69,15 @@ Lecture 1 : An introduction to algorithm complexity. Application : k-means algor
 
    * [ complexity_lecture ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/complexity_.pdf)[PDF]
    * [ k_means_lecture ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/K_means_lecture.pdf)[PDF]
-   * [ count_common_elements ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/count_common_elements.ipynb)[notebook]
-   * [ k_means_notebook ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/k_means.ipynb)[notebook]
+   * [ count_common_elements ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/count_common_elements.ipynb)[Notebook]
+   * [ k_means_notebook ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/k_means.ipynb)[Notebook]
    *  Want to get deeper understanding of complexity of algorithms ? Check [this](https://www.youtube.com/watch?v=vNOop-Qxzcg&list=PLQfaHkBRINsx9IPH8GI2RaRWMN68jyUV_) youtube channel.
   
 
 Lecture 2 : core data structures : Arrays, linked list, hashtables, stack and queue. 
    * [ Essential data structures ](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/essential-data-structures_.pdf)[PDF]
-   * [Hashtables](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/hashtable.ipynb)[notebook]
-   * [Hashtable problems](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/Hashtable_Questions.ipynb)[notebook]
+   * [Hashtables](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/hashtable.ipynb)[Notebook]
+   * [Hashtable problems](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/Hashtable_Questions.ipynb)[Notebook]
 
 Lecture 3 : Recursion, trees, introduction to graphs.
    * [Trees](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/trees.pdf)[PDF]
