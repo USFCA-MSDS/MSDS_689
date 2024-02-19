@@ -13,7 +13,6 @@ You can use the following code as a start :
 
 ```python
 import numpy as np
-from scipy.cluster.hierarchy import linkage, fcluster
 
 class HierarchicalClustering:
     def __init__(self, n_clusters):
