@@ -27,7 +27,8 @@ class HierarchicalClustering:
 
     def fit_predict(self, X):
         self.fit(X)
-        return self.labels_```
+        return self.labels_
+```
 
 ## Deliverable
 Students are expected to use the provided helper [code](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/hierarchical_clustering_using_MST-.ipynb) to write an object-oriented implementation of Hierarchical Clustering. The deliverable should be a single notebook file (.ipynb) containing the implementation, documentation, and unit tests.
