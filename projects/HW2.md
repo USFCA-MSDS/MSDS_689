@@ -9,6 +9,28 @@ The Euclidean Minimal Spanning Tree is a tree-like structure that connects all t
 ### Computation Using Provided Method
 The computation of the Euclidean Minimal Spanning Tree is facilitated by the provided helper [code](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/hierarchical_clustering_using_MST-.ipynb). The code includes functions for calculating the distances between data points, constructing the minimal spanning tree using Kruskal's algorithm, and performing hierarchical clustering based on the tree structure.
 
+You can use the following code as a start :
+
+'''
+import numpy as np
+from scipy.cluster.hierarchy import linkage, fcluster
+
+class HierarchicalClustering:
+    def __init__(self, n_clusters):
+        self.n_clusters = n_clusters
+        self.labels_ = None
+
+    def fit(self, X):
+        # implement
+        
+        # Assign
+
+    def fit_predict(self, X):
+        self.fit(X)
+        return self.labels_
+
+'''
+
 ## Deliverable
 Students are expected to use the provided helper [code](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/hierarchical_clustering_using_MST-.ipynb) to write an object-oriented implementation of Hierarchical Clustering. The deliverable should be a single notebook file (.ipynb) containing the implementation, documentation, and unit tests.
 
