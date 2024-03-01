@@ -96,7 +96,9 @@ Lecture 5 :  Dijkstra algorithm, More on graphs in data science.
    * [PageRank](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/page_rank.ipynb) [Notebook]
    * Application : [graph k-means Notebook](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/graphkmeans.ipynb), [graph k-means PDF](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/pagerank_and_kmean_clustering_.pdf)
 
-Lecture 6 : [Sorting algorithms](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/sorting.pdf)
+Lecture 6 : 
+   * More examples on applications algorithms in data science [Topological Sort and Backprob](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/Auto_diff_and%20NN_.pdf) 
+   * [Sorting algorithms](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/sorting.pdf)
 
 # Exams reviews
 
