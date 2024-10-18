@@ -42,7 +42,7 @@ Lectures are Friday
 |[HW2](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW2.md)| 18% | See Canvas |
 |[HW3](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW3.md)| 18% | See Canvas |
 |Exam 1| 30%| See Canvas|
-|Final Project| 20%| See Canvas |
+|[Final Project](https://github.com/USFCA-MSDS/MSDS_689/tree/main/projects)| 20%| See Canvas |
 |Attendance and participation | 6%| attend _all_ lectures and actively participate in class  |
 
 
