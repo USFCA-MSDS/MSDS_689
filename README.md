@@ -38,12 +38,12 @@ Lectures are Friday
 
 | Artifact | Grade Weight | Due date |
 |--------|--------|--------|
-|[HW1](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW1.md)| 8% | Sat, Feb 3 11:59pm |
-|[HW2](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW2.md)| 17% | Sat, Feb 24 11:59pm |
-|[HW3](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW3.md)| 18% | Sat Mar 2 11:59pm |
-|Exam 1| 25%| Th Feb 15 |
-|Exam 2| 25%| Fri Mar 8 |
-|Attendance and participation | 7%| attend _all_ lectures and actively participate in class  |
+|[HW1](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW1.md)| 8% | See Canvas |
+|[HW2](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW2.md)| 18% | See Canvas |
+|[HW3](https://github.com/USFCA-MSDS/MSDS_689/blob/main/projects/HW3.md)| 18% | See Canvas |
+|Exam 1| 30%| Th Feb 15 |
+|Final Project| 20%| Fri Mar 8 |
+|Attendance and participation | 6%| attend _all_ lectures and actively participate in class  |
 
 
 Note: In order to pass this course, students are expected to receive at least 50% of each category.
