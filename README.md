@@ -63,7 +63,6 @@ __________________
 
 We will give a total of 6 lectures, the outline of topics covered in these lectures are going to be : 
 
-[Welcome](https://github.com/USFCA-MSDS/MSDS_689/blob/main/lectures/welcome_.pdf)
 
 Lecture 1 : An introduction to algorithm complexity. Application : k-means algorithm. 
 
