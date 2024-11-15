@@ -103,4 +103,5 @@ Lecture 6 :
 # Exams reviews
 
 Exam1 review questions [notebook](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/questions_exam1.ipynb)
+More exam questions [notebook](https://github.com/USFCA-MSDS/MSDS_689/blob/main/notebooks/More_Exam_Questions.ipynb)
 
